@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 This Study Guide was created for myself and other boot camp students who have gone through the Prework. It has some notes for HTML, CSS, git, and JavaSCript.
